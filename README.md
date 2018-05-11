@@ -11,7 +11,7 @@ The database manager can also update information pertaining to users, such as th
 
 
 The entity sets for the database are:
-User
+● User
 ● Food
 ● Vitamins
 ● Minerals
