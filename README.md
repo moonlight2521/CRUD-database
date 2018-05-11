@@ -10,13 +10,13 @@ The database manager would update the contents of the database such as food item
 The database manager can also update information pertaining to users, such as their name, health issues, height and weight.
 
 
-#The entity sets for the database are:
-#● User
-#● Food
-#● Vitamins
-#● Minerals
-#● Macronutrients
-#● Amino Acids
+The entity sets for the database are:
+User
+● Food
+● Vitamins
+● Minerals
+● Macronutrients
+● Amino Acids
 
 The operations that can be performed on the database for maintenance are:
 ● Enter the amount of vitamins/minerals/amino acids/macronutrients a food item has.
