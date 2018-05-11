@@ -1,0 +1,15 @@
+INSERT INTO users VALUES ( NULL, 'John', 'Pie','johnpiew@yahoo.com', 60, 'Diabetes', NULL);
+INSERT INTO users VALUES ( NULL, 'Johnny', 'Jones','johnnyjones@yahoo.com', 17, 'Flu', NULL);
+INSERT INTO users VALUES ( NULL, 'Sally', 'Sue','SallySue@yahoo.com', 28, 'Iron Deficiency', NULL);
+INSERT INTO users VALUES ( NULL, 'Dennis', 'Sig','dennissig@yahoo.com', 29, 'Chicken Allergy', NULL);
+INSERT INTO users VALUES ( NULL, 'Zun', 'Pie','zunpie@yahoo.com', 82, 'Peanut Allergy', NULL);
+INSERT INTO users VALUES ( NULL, 'Andy', 'San','andysan@yahoo.com', 84, 'Calcium Deficiency', NULL);
+INSERT INTO users VALUES ( NULL, 'Nathan','Jones', 'nathanjones@yahoo.com', 38, 'none', NULL);
+INSERT INTO users VALUES ( NULL, 'David', 'David','daviddavid@yahoo.com', 43, 'Chicken Allergy', NULL);
+INSERT INTO users VALUES ( NULL, 'Shannon', 'Hammond','shanhamm@yahoo.com', 26, 'none', NULL);
+INSERT INTO users VALUES ( NULL, 'Kit', 'Poncha','kitponcha@yahoo.com', 34, 'Diabetes', NULL);
+INSERT INTO users VALUES ( NULL, 'Sloan', 'Melatonin','melatoninman@yahoo.com', 66, 'Zinc Deficiency', NULL);
+INSERT INTO users VALUES ( NULL, 'Rhohit', 'Shah','rhoshah@yahoo.com', 19, 'Flu', NULL);
+INSERT INTO users VALUES ( NULL, 'Karen', 'Kelly','karkel@yahoo.com', 23, 'Vitamin K Deficiency', NULL);
+INSERT INTO users VALUES ( NULL, 'Rachel', 'Luis','rachluis@yahoo.com', 56, 'Diabetes', NULL);
+INSERT INTO users VALUES ( NULL, 'Luis', 'Morillo','lumorillo@yahoo.com', 12, 'Vitamin D Deficiency', NULL);
